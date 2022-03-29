@@ -1,6 +1,9 @@
 ---
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=c5e7cd&height=250&section=header&text=Cotidie&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Won%20Seok,%20Major%20In%20CSE&descAlignY=60&descAlign=62)
+  
+  
 ![Cotidie's Github Stats](https://github-readme-stats.vercel.app/api?username=Cotidie&show_icons=true&theme=vue)
   
 </div>
