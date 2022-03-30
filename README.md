@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c5e7cd&height=250&section=header&text=Cotidie&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Won%20Seok,%20Major%20In%20CSE&descAlignY=60&descAlign=62)
   
 👋 Hi! I'm Won Seok  
-I want to be a software architect
+I want to be a ***Software Architect***
   
 😀 Currently I'm enjoying...  
 ***Android development***
