@@ -3,6 +3,16 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c5e7cd&height=250&section=header&text=Cotidie&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Won%20Seok,%20Major%20In%20CSE&descAlignY=60&descAlign=62)
   
+👋 Hi! I'm Won Seok  
+I want to be a software architect
+  
+Currently I'm enjoying...  
+***Android development***
+  
+I'm studying **CSE** in  
+Pusan National University, South Korea
+  
+  
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
