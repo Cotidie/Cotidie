@@ -6,10 +6,10 @@
 👋 Hi! I'm Won Seok  
 I want to be a software architect
   
-Currently I'm enjoying...  
+🏃 Currently I'm enjoying...  
 ***Android development***
   
-I'm studying **CSE** in  
+📖 I'm studying **CSE** in  
 Pusan National University, South Korea
   
   
