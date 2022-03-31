@@ -9,7 +9,7 @@ I want to be a ***Software Architect***
 😀 Currently I'm enjoying...  
 ***Android development***
   
-📖 I'm studying **CSE** in  
+📖 I'm studying ***CSE*** in  
 Pusan National University, South Korea
   
 <br>
