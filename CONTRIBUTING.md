@@ -38,14 +38,14 @@ Issue 화면            |  Pull Request 화면
 - PR 제목은 처리한 작업을 알 수 있도록 적는다.
 
 ### Commit
-: 자세한 내용은 [Commit Convention](https://github.com/Apptive2022-1/.github/blob/main/docs/Commit%20Convention.md)을 참고해주세요.
+: 자세한 내용은 [Commit Convention](https://github.com/Cotidie/Cotidie/blob/main/Commit%20Convention.md)을 참고해주세요.
  * 커밋은 시간 순서대로 쌓는다.
  * 커밋 제목은 히스토리로부터 변경 내역을 쉽게 알 수 있도록 적는다.
  * 서로 밀접한 연관 또는 종속성을 갖는 변경내역은 하나의 커밋으로 합친다.
  * 커밋 제목에는 반드시 접두사를 붙인다.
 
 ## ✔️ 코드 리뷰
- : 자세한 내용은 [별도 문서](https://github.com/Apptive2022-1/.github/blob/main/docs/Code%20Review.md)를 참고해주세요
+ : 자세한 내용은 [별도 문서](https://github.com/Cotidie/Cotidie/blob/main/Code%20Review%20Guide.md)를 참고해주세요
  1.  **코드 작성자**는 변경내역을 요약하여 PR을 올립니다.
       * 변경내역이 너무 많지 않도록 분량 조절
       * 관련된 이슈는 #(이슈번호) 붙이기
@@ -57,7 +57,7 @@ Issue 화면            |  Pull Request 화면
    
 ## 📂 패키지 컨벤션
 ### Android
-안드로이드의 패키지 컨벤션(프로젝트 구조)는 기본적으로 다음을 따릅니다. 이는 [Clean Architecture](https://developer.android.com/jetpack/guide)와 [Presentation-Domain-Data](https://martinfowler.com/bliki/PresentationDomainDataLayering.html) 레이어를 기초로 합니다. 자세한 내용은 [별도 문서](https://github.com/Apptive2022-1/.github/blob/main/docs/Package%20Convention.md)를 참고해주세요.
+안드로이드의 패키지 컨벤션(프로젝트 구조)는 기본적으로 다음을 따릅니다. 이는 [Clean Architecture](https://developer.android.com/jetpack/guide)와 [Presentation-Domain-Data](https://martinfowler.com/bliki/PresentationDomainDataLayering.html) 레이어를 기초로 합니다. 자세한 내용은 [별도 문서](https://github.com/Cotidie/Cotidie/blob/main/Package%20Convention.md)를 참고해주세요.
  ```m
 |-app
     |- _constants         // Color, Size 등 UI 요소
