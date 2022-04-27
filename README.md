@@ -13,7 +13,7 @@ I want to be a ***Software Architect***
 Pusan National University, South Korea
 
 📋 I wrote those documents  
-  for better cooperation and maintainability  
+  for better **cooperation** and **maintainability**  
   [Contributing Guidline](https://github.com/Cotidie/Cotidie/blob/main/CONTRIBUTING.md) <br>
   [Commit Convention](https://github.com/Cotidie/Cotidie/blob/main/Commit%20Convention.md) <br>
   [Package Convention](https://github.com/Cotidie/Cotidie/blob/main/Package%20Convention.md) <br>
