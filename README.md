@@ -59,6 +59,9 @@ Pusan National University, South Korea
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
 </p>
   
+### Prizes
+ 3rd PathHack - Grand Prize
+  
 <br><br>
 ![Cotidie's Github Stats](https://github-readme-stats.vercel.app/api?username=Cotidie&show_icons=true&theme=vue)
   
