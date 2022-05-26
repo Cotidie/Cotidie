@@ -1,5 +1,5 @@
 # 패키지 컨벤션
-|클린 아키텍처            |  아키텍처 상세 |
+|MVVM 패턴            |  아키텍처 상세 |
 |:--------------------:|:------------------:|
 |![클린 아키텍처](https://user-images.githubusercontent.com/51331195/157505761-e79cc80a-1301-4492-8441-dd3d7f21234b.png) | ![Flow](https://user-images.githubusercontent.com/51331195/157505816-10b27794-9bb6-4676-a186-3bee81683060.png) |
 
@@ -106,11 +106,11 @@ private class EntityToLink: Mapper<LinkWithTags, ILink> {
 
 private class LinkListMapper(
     linkMapper: LinkToEntity = LinkToEntity(),
-): ListMapperImpl<ILink, LinkWithTags>(linkMapper)
+): ListMapper<ILink, LinkWithTags>(linkMapper)
 
 private class LinkEntityListMapper(
     entityMapper: EntityToLink = EntityToLink(),
-): ListMapperImpl<LinkWithTags, ILink>(entityMapper)
+): ListMapper<LinkWithTags, ILink>(entityMapper)
 ```
 
 ## :link: 참고
