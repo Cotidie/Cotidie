@@ -1,5 +1,5 @@
 # 커밋 컨벤션
- 좋은 커밋 메시지는 코드 리뷰를 원활하게 할 수 있도록 돕고, 브랜치 생성 지점, cherry-pick 지점 등을 쉽게 파악할 수 있도록 하여 개발 협업에도 도움을 줍니다. 아래는 동아리에서 기본적으로 권장하는 컨벤션이며, [AngularJS Git Commit Convention](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.uyo6cb12dt6w) 및 [Udacity Git Commit Convntion](https://udacity.github.io/git-styleguide/)을 참고했습니다.
+ 좋은 커밋 메시지는 코드 리뷰를 원활하게 할 수 있도록 돕고, 브랜치 생성 지점, cherry-pick 지점 등을 쉽게 파악할 수 있도록 하여 개발 협업에도 도움을 줍니다. 아래는 기본적으로 권장하는 컨벤션이며, [AngularJS Git Commit Convention](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.uyo6cb12dt6w) 및 [Udacity Git Commit Convntion](https://udacity.github.io/git-styleguide/)을 참고했습니다.
 
 ## 컨벤션
  * 커밋은 시간 순서대로 쌓는다.
