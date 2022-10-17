@@ -39,6 +39,7 @@ Pusan National University, South Korea
   
 ### Frameworks
 <p>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=OpenTelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack-Compose-07405E?style=flat-square&color=4285F4&logo=Jetpack+Compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
