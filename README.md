@@ -70,7 +70,7 @@ Pusan National University, South Korea
   
 <br><br>
 ![Cotidie's Github Stats](https://github-readme-stats.vercel.app/api?username=Cotidie&show_icons=true&theme=vue)
-  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Cotidie)
 </div>
 
 ---
