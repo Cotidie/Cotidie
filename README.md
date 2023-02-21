@@ -63,8 +63,6 @@ Pusan National University, South Korea
   <br>
   <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
 </p>
   
