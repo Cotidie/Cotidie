@@ -39,12 +39,13 @@ Pusan National University, South Korea
   
 ### Frameworks
 <p>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=OpenTelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack-Compose-07405E?style=flat-square&color=4285F4&logo=Jetpack+Compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
@@ -56,10 +57,12 @@ Pusan National University, South Korea
 <p>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
   <img alt="Bazel" src ="https://img.shields.io/badge/Bazel-4EA94B?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADRklEQVR4Xu3aT2oiQRQG8FZzCHXlbN0Jbr2Eh/ASwzAGcgDBjV7CQ6hL3epyXIggXiHoWIM1VKrrz3uv3qsOqBAIpLu+9/26TbokteLJX7Un71+8AF53AIPA7Xb7fV/mrVar/WJYLroEZ17yW+AxzPgx9Yc0AndeEoA1jL5yYggSeWQAzzBiCFJ5JIDIMOwIknloAOAwbAjSeSgA5DDJCDnywADEYcgIufJAAInDoBFy5kUBmIYBI+TOCwIwDxNFyJ2nBvICCA3jRcidpwdxAggPU0LInWduNkoAmYb5j3D/5vP+pfcS0Y1Q4gGlx/QSwOl0+tNqtTqJQaDTz+fz4Xq9Fjnzms3mj+AdsNlsbu12+yA9lCp/PB7/QefM6/f7Xy566Q5QANJDmeX11ZBEMPPAAFIIrvKSCHYeCoAbIVReAsGVhwbgQoCU50Tw5ZEAUhEw5TkQQnlkACoCpXwKQiwvCQCLEBsG8rCA+esAyUsGgCJAhoEAcOexAMSG4iwPeTtg8tgAfAiYYaB3QAgBm8cKYCNgh8ECcOSxA+ih6vV6oZ/tKcUw56hfjNS8KMB2u/153xJ/YAZSx65Wq8NgMOhgz6Mcv1gsDsPhEJ3VaDTGvV7v3cx0fiBCQZjP50W32xVHUOWXy2VnMpmg7Fzl1QLej8SwCApAvSQRdHmVgwHwlQ8CqB9iEDSAFIJZHgMQKh8FwCCYANwIdnkoQKw8CACKYANwIbjKQwAg5cEAEAQXQCqCr3wMAFoeBRBD8AFQEULlQwCY8miAEEIIAIsQK+8DwJYnAfgQYgBQBEh5FwClPBnAhQABiCFAy9sA1PJJADYCFMCHgClvAqSUTwYwETAANgK2vAZILc8CoBFmsxl6A6Uemy+XS6Ge7dU6mNd0Oi1tbDDn62Oj/yABXXQ0GpF2kfv9HhphHjder9dfdnWURdjuAB1OQSAAsJVnB1ALYhGQAKzlRQCwCAgA9vJiABgEIIBIeVEAKAIAQKy8OAAEIQIgWj4LQAwhACBePhtACMEDkKV8VgAfggMgW/nsAC4ECyBr+UoAbAQDIHv5ygBMhAdAJeUrBdAIu93ujWtjQ9kQse0GKeHf4ZwXwHe4ClXO8PR3wF8+Sytu6ChnXAAAAABJRU5ErkJggg=="/>  
-  <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img alt="Prometheus" src ="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=flat-square&logo=Prometheus&logoColor=white"/>
+  <img alt="Grafana" src ="https://img.shields.io/badge/Grafana-F46800.svg?&style=flat-square&logo=Grafana&logoColor=white"/>
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <br>
+  <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
