@@ -64,7 +64,8 @@ Pusan National University, South Korea
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
 </p>
   
-### Prizes
+### Experience/Activities
+ Bear Robotics Intern (Bay Area, California)
  3rd PathHack - Grand Prize
   
 <br><br>
