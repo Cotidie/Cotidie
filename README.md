@@ -58,15 +58,12 @@ Pusan National University, South Korea
   <img alt="Prometheus" src ="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=flat-square&logo=Prometheus&logoColor=white"/>
   <img alt="Grafana" src ="https://img.shields.io/badge/Grafana-F46800.svg?&style=flat-square&logo=Grafana&logoColor=white"/>
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
-  <br>
   <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
 </p>
   
 ### Activities
  ICT Global Internship - Bear Robotics     
- (Bay Area, California)    
+ (1 year in Bay Area, California, U.S.)    
  
  3rd PathHack - Grand Prize
   
