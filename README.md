@@ -68,6 +68,8 @@ Pusan National University, South Korea
  3rd PathHack - Grand Prize
   
 <br><br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daily142857)](https://solved.ac/daily142857)<br>
 ![Cotidie's Github Stats](https://github-readme-stats.vercel.app/api?username=Cotidie&show_icons=true&theme=vue)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cotidie)
 </div>
