@@ -60,7 +60,7 @@ Pusan National University, South Korea
 </p>
   
 ### Activities
- UNIST Research Internship 
+ UNIST Research Internship  
  (U-WURF, Embedded Artificial Intelligence)
 
  ICT Global Internship - Bear Robotics     
