@@ -68,6 +68,9 @@ Pusan National University, South Korea
 
  ICT Global Internship - Bear Robotics     
  (1 year in Bay Area, California, U.S.)    
+
+ Android Field Trainee Internship  
+ (Studio Machete)
  
  3rd PathHack - Grand Prize
   
