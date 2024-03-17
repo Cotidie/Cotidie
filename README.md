@@ -60,6 +60,9 @@ Pusan National University, South Korea
 </p>
   
 ### Activities
+ Pusan National University Research Internship
+ (INSLAB, IoT Network & Systems Lab)
+
  UNIST Research Internship  
  (U-WURF, Embedded Artificial Intelligence)
 
