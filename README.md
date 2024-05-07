@@ -14,9 +14,10 @@ Pusan National University, South Korea
 
 📋 I wrote those documents  
   for better **cooperation** and **maintainability**  
-  [Contributing Guidline](https://github.com/Cotidie/Cotidie/blob/main/CONTRIBUTING.md) <br>
+  [Contributing Guidline](https://github.com/ApptiveDev/.github/blob/main/docs/CONTRIBUTING.md) <br>
+  [Linux Environment Setting](https://github.com/ApptiveDev/.github/blob/main/docs/Dev%20Environment%20Setup.md)<br>
   [Commit Convention](https://github.com/Cotidie/Cotidie/blob/main/Commit%20Convention.md) <br>
-  [Package Convention](https://github.com/Cotidie/Cotidie/blob/main/Package%20Convention.md) <br>
+  [Package Convention](https://github.com/ApptiveDev/.github/blob/main/docs/Package%20Convention.md) <br>
   [Pair Programming](https://github.com/Cotidie/Cotidie/blob/main/Pair%20Programming.md) <br>
   [Code Review Guideline](https://github.com/Cotidie/Cotidie/blob/main/Code%20Review%20Guide.md)
 <br>
