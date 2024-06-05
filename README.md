@@ -63,8 +63,11 @@ Pusan National University, South Korea
 
 ### Educations
  POSTECH, CSE, M.S./Ph.d (Feb 25 ~)  
+ 
  Pusan National University, CSE, B.S. degree  
- Academic Credit Bank System, IT & Communication, Associate degree
+ 
+ Academic Credit Bank System, IT & Communication, Associate degree  
+ 
   
 ### Activities
  Pusan National University Research Internship  
