@@ -60,6 +60,11 @@ Pusan National University, South Korea
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
   <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
+
+### Educations
+ POSTECH, CSE, M.S./Ph.d (Feb 25 ~)  
+ Pusan National University, CSE, B.S. degree  
+ Academic Credit Bank System, IT & Communication, Associate degree
   
 ### Activities
  Pusan National University Research Internship  
