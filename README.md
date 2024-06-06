@@ -66,8 +66,6 @@ Pusan National University, South Korea
  
  Pusan National University, CSE, B.S. degree  
  
- Academic Credit Bank System, IT & Communication, Associate degree  
- 
   
 ### Activities
  Pusan National University Research Internship  
