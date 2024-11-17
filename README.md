@@ -62,7 +62,6 @@ Pusan National University, South Korea
 </p>
 
 ### Educations
- POSTECH, CSE, M.S./Ph.d (Feb 25 ~)  
  
  Pusan National University, CSE, B.S. degree  
  
