@@ -62,6 +62,8 @@ Pusan National University, South Korea
 </p>
 
 ### Educations
+
+ POSTECH, CSE, AIoT Lab, MS-Ph.d (2025-)
  
  Pusan National University, CSE, B.S. degree  
  
