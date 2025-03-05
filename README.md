@@ -71,6 +71,9 @@ Pusan National University, South Korea
 ### Activities
  The President of [APPTIVE](https://www.notion.so/apptive/e43fdb7b0e91469dbb4894bf16bbf97d?pvs=4) (IT Project Club)
 
+ UST-ETRI Winter Research Internship  
+ (Deep Learning Model Compression)
+
  Pusan National University Research Internship  
  (INSLAB, IoT Network & Systems Lab)
 
