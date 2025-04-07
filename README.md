@@ -85,6 +85,8 @@ Pusan National University, South Korea
 
  Android Field Trainee Internship  
  (Studio Machete)
+
+ 2nd Fintech Research Ideation - Excellence Prize
  
  3rd PathHack - Grand Prize
   
