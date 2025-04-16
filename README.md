@@ -1,7 +1,7 @@
 ---
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=c5e7cd&height=250&section=header&text=Cotidie&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Won%20Seok,%20CSE%20Undergraduate&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c5e7cd&height=250&section=header&text=Cotidie&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wonseok,%20CSE%20Researcher&descAlignY=60&descAlign=62)
   
 👋 Hi! I'm Won Seok  
 I want to be a ***Software Architect***
