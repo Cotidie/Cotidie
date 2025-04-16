@@ -10,7 +10,7 @@ I want to be a ***Software Architect***
 ***Platform development***
   
 📖 I'm studying ***CSE*** in  
-Pusan National University, South Korea
+POSTECH, South Korea
 
 📋 I wrote those documents  
   for better **cooperation** and **maintainability**  
