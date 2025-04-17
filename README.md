@@ -10,7 +10,7 @@ I want to be a ***Software Architect***
 ***Platform development***
   
 📖 I'm studying ***CSE*** in  
-POSTECH, South Korea
+Pusan National University, South Korea
 
 📋 I wrote those documents  
   for better **cooperation** and **maintainability**  
@@ -62,8 +62,6 @@ POSTECH, South Korea
 </p>
 
 ### Educations
-
- POSTECH, CSE, AIoT Lab (2025-)
  
  Pusan National University, CSE, B.S. degree  
  
