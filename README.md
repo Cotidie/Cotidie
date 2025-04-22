@@ -10,7 +10,7 @@ I want to be a ***Software Architect***
 ***Platform development***
   
 📖 I'm studying ***CSE*** in  
-Pusan National University, South Korea
+POSTECH, South Korea
 
 📋 I wrote those documents  
   for better **cooperation** and **maintainability**  
@@ -60,10 +60,6 @@ Pusan National University, South Korea
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
   <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
-
-### Educations
- 
- Pusan National University, CSE, B.S. degree  
  
   
 ### Activities
