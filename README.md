@@ -9,7 +9,8 @@ I want to be a ***Software Architect***
 😀 Currently I'm enjoying...  
 ***Platform development***
   
-📖 I'm studying ***CSE***
+📖 I'm studying ***Computer Science***  
+at **KAIST**
 
 📋 I wrote those documents  
   for better **cooperation** and **maintainability**  
