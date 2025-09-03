@@ -10,7 +10,7 @@ I want to be a ***Software Architect***
 ***Platform development***
   
 📖 I'm studying ***Computer Science***  
-at **KAIST**
+at **KAIST** (Master's degree)
 
 📋 I wrote those documents  
   for better **cooperation** and **maintainability**  
